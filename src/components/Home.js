@@ -97,6 +97,11 @@ export default function Home() {
               <div className="hexagon"></div>
               <div className="hexagon"></div>
               <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
             </div>
             <div className="hex-row">
               <div className="hexagon"></div>
@@ -111,15 +116,6 @@ export default function Home() {
               <div className="hexagon"></div>
               <div className="hexagon"></div>
               <div className="hexagon"></div>
-            </div>{" "}
-            <div className="hex-row">
-              <div className="hexagon"></div>
-              <div className="hexagon"></div>
-              <div className="hexagon"></div>
-              <div className="hexagon"></div>
-              <div className="hexagon"></div>
-              <div className="hexagon"></div>
-              <div className="hexagon"></div>
               <div className="hexagon"></div>
               <div className="hexagon"></div>
               <div className="hexagon"></div>
@@ -132,15 +128,6 @@ export default function Home() {
               <div className="hexagon"></div>
               <div className="hexagon"></div>
               <div className="hexagon"></div>
-              <div className="hexagon"></div>
-              <div className="hexagon"></div>
-              <div className="hexagon"></div>
-              <div className="hexagon"></div>
-              <div className="hexagon"></div>
-              <div className="hexagon"></div>
-              <div className="hexagon"></div>
-            </div>{" "}
-            <div className="hex-row">
               <div className="hexagon"></div>
               <div className="hexagon"></div>
               <div className="hexagon"></div>
@@ -167,6 +154,30 @@ export default function Home() {
               <div className="hexagon"></div>
               <div className="hexagon"></div>
               <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+            </div>{" "}
+            <div className="hex-row">
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
             </div>{" "}
             <div className="hex-row">
               <div className="hexagon"></div>
@@ -181,8 +192,56 @@ export default function Home() {
               <div className="hexagon"></div>
               <div className="hexagon"></div>
               <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
             </div>{" "}
             <div className="hex-row">
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+            </div>{" "}
+            <div className="hex-row">
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+            </div>
+            <div className="hex-row">
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
+              <div className="hexagon"></div>
               <div className="hexagon"></div>
               <div className="hexagon"></div>
               <div className="hexagon"></div>
