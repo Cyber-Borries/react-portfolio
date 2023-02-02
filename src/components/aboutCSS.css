@@ -1,0 +1,36 @@
+.about-container {
+  line-height: 2;
+  height: 90vh;
+  margin: 10px;
+  max-width: 75%;
+  background-color: red;
+  padding: 25px;
+  background-color: rgb(34, 48, 60);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 32px;
+  box-shadow: 1px 1px 0 1px #000, -1px 0 28px 0 rgba(34, 33, 81, 0.01),
+    28px 28px 28px 0 rgba(34, 33, 81, 0.25);
+}
+
+.about-container-header {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.about-container-body {
+  line-height: 2;
+  text-align: center;
+}
+
+.skills-image {
+  height: 4rem;
+  margin-left: 1rem;
+}

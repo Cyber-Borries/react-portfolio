@@ -1,0 +1,77 @@
+/* This stylesheet is for global styles, ie:
+  components that share;
+  colours
+  font families
+  animations
+  media queries for responsiveness
+*/
+
+/* setting up CSS variables in the root */
+
+:root {
+  --very-dark-blue: #0c0032;
+  --dark-blue: #190061;
+  --darker-blue: #240090;
+  --blue: #3500d3;
+  --background-color: #282828;
+  --font-color: #faf9f6;
+  --red: #ee4b2b;
+}
+
+/* background-color: rgb(34, 48, 60); */
+
+body {
+  background: rgb(34, 48, 60);
+  /* background: linear-gradient(
+    360deg,
+    rgba(34, 48, 60, 1) 12%,
+    rgba(19, 37, 52, 1) 50%,
+    rgba(0, 0, 0, 1) 100%
+  ); */
+  /* background-color: var(--background-color); */
+  color: var(--font-color);
+  /* background: rgb(12, 0, 50);
+  background: linear-gradient(
+    135deg,
+    rgba(40, 40, 40, 1) 0%,
+    rgba(25, 0, 97, 1) 32%
+  ); */
+}
+
+/* to make the side bar */
+
+* {
+  color: var(--font-color);
+}
+
+.heading {
+  color: var(--font-color);
+}
+
+.layout-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* css properties for loader */
+
+.sweet-loading {
+  height: 150px;
+}
+
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  border: 3px solid transparent;
+  background-clip: content-box;
+  background-color: #d55959;
+}
