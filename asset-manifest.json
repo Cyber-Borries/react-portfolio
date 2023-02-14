@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.cc3a821a.css",
-    "main.js": "/react-portfolio/static/js/main.bef584f3.js",
+    "main.css": "/react-portfolio/static/css/main.399e9f25.css",
+    "main.js": "/react-portfolio/static/js/main.91b11109.js",
     "static/js/787.cda612ba.chunk.js": "/react-portfolio/static/js/787.cda612ba.chunk.js",
+    "static/media/itunes-app.JPG": "/react-portfolio/static/media/itunes-app.be825c89e91e52657bd0.JPG",
     "static/media/adriaan.jfif": "/react-portfolio/static/media/adriaan.3db7957510487eed6e55.jfif",
+    "static/media/capstone-img.JPG": "/react-portfolio/static/media/capstone-img.d4814743268f36dbfab9.JPG",
+    "static/media/weather-app.JPG": "/react-portfolio/static/media/weather-app.e26c7e953d87de71b1af.JPG",
     "static/media/nodejs.svg": "/react-portfolio/static/media/nodejs.543dd86690e645fec32c4c62669bf07f.svg",
     "static/media/whatsapp.svg": "/react-portfolio/static/media/whatsapp.24e2cf1ed5cefd66d904380e700a4339.svg",
     "static/media/react.svg": "/react-portfolio/static/media/react.f57b349b4d9df56c9b48c916a8d5adfb.svg",
@@ -15,12 +18,12 @@
     "static/media/linkedin.svg": "/react-portfolio/static/media/linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
     "static/media/css-3.svg": "/react-portfolio/static/media/css-3.315b8fdb9dbf75ae965b80bf368895cd.svg",
     "static/media/html-5.svg": "/react-portfolio/static/media/html-5.0107c93943a8f415b5db64ebb0a9d12d.svg",
-    "main.cc3a821a.css.map": "/react-portfolio/static/css/main.cc3a821a.css.map",
-    "main.bef584f3.js.map": "/react-portfolio/static/js/main.bef584f3.js.map",
+    "main.399e9f25.css.map": "/react-portfolio/static/css/main.399e9f25.css.map",
+    "main.91b11109.js.map": "/react-portfolio/static/js/main.91b11109.js.map",
     "787.cda612ba.chunk.js.map": "/react-portfolio/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc3a821a.css",
-    "static/js/main.bef584f3.js"
+    "static/css/main.399e9f25.css",
+    "static/js/main.91b11109.js"
   ]
 }
